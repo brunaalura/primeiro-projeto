@@ -58,7 +58,7 @@ section {
     align-content: center;
 }
 .display-4 {
-    text-shadow: -5px 5px; var (--laranja-claro);
+    text-shadow: -5px 5px var (--laranja-claro);
     }
 #tropicalia {
     position: relative;
